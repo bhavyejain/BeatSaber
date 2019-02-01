@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="saber2" version="3.0" targetId="32373b0cc60b4a5da7d8f57eb72736ac" sideLength="0.075000" topDiameter="0.024000" bottomDiameter="0.024000" sideImage="saber2.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
